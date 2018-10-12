@@ -15,3 +15,5 @@ Using the tool is quite simple.
 Once this process has finished, you should hopefully have the new version of uSequencer (or WellFired.Direct) up and running and all your old prefabs, scenes, etc should be working wonderfully!
 
 Enjoy, and feel free to lift this code for you own purposes, it's in no way tied to WellFired products!
+
+Please note that since this tool is deprecated, it's unlikely we'll modify the source at all. That said, feel free to create pull requests and i'll do my best to integrate them.
